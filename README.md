@@ -10,10 +10,12 @@ The ProblemWithSolutions repository is your go-to resource for learning C# progr
     📝 Detailed solution files with step-by-step explanations.
     💻 Code snippets ready to execute in Visual Studio, VS Code or any C# IDE.
     🚀 Beginner-friendly and includes intermediate to advanced challenges.
+    
 🛠️ Technologies Used
     C#: Programming language used for all solutions.
     .NET: The runtime environment for executing C# code.
     Visual Studio 2022: Recommended IDE for exploring the code.
+    
 🚀 Getting Started
   Prerequisites
     Install the .NET SDK (Version 8.0 or later recommended).
@@ -21,6 +23,7 @@ The ProblemWithSolutions repository is your go-to resource for learning C# progr
     #Clone this repository:
       git clone https://github.com/HasanMahmudDev/ProblemWithSolutions.git
       cd ProblemWithSolutions
+      
 🏃Running a Solution
     Open the desired solution file in Visual Studio.
     Set the Main function as the startup project.
