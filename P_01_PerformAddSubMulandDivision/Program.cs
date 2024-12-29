@@ -1,9 +1,8 @@
-﻿using System;
-namespace P_01_PerformAddSubMulandDivision
+﻿namespace P_01_PerformAddSubMulandDivision
 {
     public class Program
     {
-        static void Main()
+        static void Main(string[] args)
         {
             // Take input from the user
             Console.Write("Enter the first number: ");
